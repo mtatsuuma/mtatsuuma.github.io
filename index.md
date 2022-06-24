@@ -1,6 +1,6 @@
 ## Profile
 
-### Name
+#### Name
 Misako Tatsuuma (辰馬 未沙子)
 
 ### Affiliations
