@@ -27,4 +27,3 @@ misako.tatsuuma -at- gmail.com
 - Material strength of dust aggregates
 - Dust N-body simulation
 - Formation of comets and asteroids
-
