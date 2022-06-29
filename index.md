@@ -13,7 +13,7 @@ JSPS Research Fellowship (PD)
 misako.tatsuuma -at- gmail.com
 
 #### ORCID
-[0000-0003-1844-5107](https://orcid.org/0000-0003-1844-5107)
+<a href="https://orcid.org/0000-0003-1844-5107" target="_blank" rel="noopener noreferrer">0000-0003-1844-5107</a>
 
 #### Professional Societies
 - The Astronomical Society of Japan (2016/10/1-)
