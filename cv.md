@@ -1,6 +1,6 @@
 ### [Profile](https://mtatsuuma.github.io/) / [Research Highlights](https://mtatsuuma.github.io/research-highlights.html) / [CV](https://mtatsuuma.github.io/cv.html) / [Publications](https://mtatsuuma.github.io/publications.html) / [Conferences](https://mtatsuuma.github.io/conferences.html)
 
-## Profile
+## CV
 
 #### Name
 Misako Tatsuuma (辰馬 未沙子)
