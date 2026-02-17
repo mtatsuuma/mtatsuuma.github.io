@@ -1,0 +1,7 @@
+#Asteroid,Density [kg m^-3],Density error [kg m^-3],Reference,Diameter [km],Diameter-sigma [km],Volume [km^3],Volume error [km],Reference
+#162173 Ryugu,1190,20,Watanabe et al. (2019),,,0.377,1.3,Watanabe et al. (2019)
+#101955 Bennu,1260,70,Chesley et al. (2014),0.492,0.020,,,https://ssd.jpl.nasa.gov/sbdb_query.cgi
+#25143 Itokawa,1900,130,Fujiwara et al. (2006),0.33,,,,https://ssd.jpl.nasa.gov/sbdb_query.cgi
+162173 Ryugu,1190,20,Watanabe et al. (2019),0.90,,0.377,0.0049,Watanabe et al. (2019)
+101955 Bennu,1190,13,Lauretta et al. (2019),0.49,,0.0615,0.0001,Lauretta et al. (2019)
+25143 Itokawa,1900,130,Fujiwara et al. (2006),0.33,,0.0184,0.00092,Fujiwara et al. (2006)

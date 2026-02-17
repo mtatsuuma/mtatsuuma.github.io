@@ -1,0 +1,28 @@
+Comet,Density preferred value [kg m^-3],Density lower limit [kg m^-3],Density upper limit [kg m^-3],Method,Reference,Diameter [km],Diameter-sigma [km] from https://ssd.jpl.nasa.gov/sbdb_query.cgi
+1P/Halley,,100,200,NGF,Rickman (1986),11.0,
+1P/Halley,600,200,1500,NGF,Sagdeev et al. (1988),11.0,
+1P/Halley,,500,1200,NGF,Skorov and Rickman (1999),11.0,
+1P/Halley,1000,30,4900,NGF,Peale (1989),11.0,
+1P/Halley,500,200,800,NGF,Sosa and Fernández (2009),11.0,
+2P/Encke,800,,1600,NGF,Sosa and Fernández (2009),4.8,
+6P/d'Arrest,150,100,200,NGF,Sosa and Fernández (2009),3.2,
+8P/Tuttle,,900,1900,Radar,Harmon et al. (2010),4.5,1.
+9P/Tempel 1,400,200,1000,Deep impact ejecta,Richardson et al. (2007),6.0,0.2
+9P/Tempel 1,450,200,700,NGF,Davidsson et al. (2007),6.0,0.2
+9P/Tempel 1,200,100,300,NGF,Sosa and Fernández (2009),6.0,0.2
+9P/Tempel 1,470,240,1250,Deep impact ejecta,Thomas et al. (2013),6.0,0.2
+10P/Tempel 2,700,300,1100,NGF,Sosa and Fernández (2009),10.6,
+19P/Borrelly,490,290,830,NGF,Farnham and Cochran (2002),4.8,
+19P/Borrelly,,100,300,NGF,Davidsson and Gutiérrez (2004),4.8,
+22P/Kopff,200,100,300,NGF,Sosa and Fernández (2009),3.0,0.4
+46P/Wirtanen,400,100,700,NGF,Sosa and Fernández (2009),1.2,
+67P/Churyumov-Gerasimenko,,100,370,NGF,Davidsson and Gutiérrez (2005),4.0,
+67P/Churyumov-Gerasimenko,,600,1000,Radar,Kamoun et al. (2014),4.0,
+#67P/Churyumov-Gerasimenko,535,500,570,In-situ mass and volume,Preusker et al. (2015),4.0,
+#67P/Churyumov-Gerasimenko,532,525,539,In-situ mass and volume,Jorda et al. (2016),4.0,
+81P/Wild 2,,,800,NGF,Davidsson and Gutiérrez (2006),4.0,
+81P/Wild 2,300,,800,NGF,Sosa and Fernández (2009),4.0,
+103P/Hartley 2,,200,400,Shape and rotation,Thomas et al. (2013b),1.6,
+103P/Hartley 2,220,140,520,Erosion rate,Richardson and Bowling (2014),1.6,
+#D/S-L 9 # collided with Jupiter and disappeared.,550,500,600,Tidal forces,Solem (1995),,
+#D/S-L 9 # collided with Jupiter and disappeared.,600,500,1000,Tidal forces,Asphaug and Benz (1996),,
